@@ -6,7 +6,7 @@ In addition to these analyses, a data science team is working on price optimizat
 
 This document provides instruction to deploy the dashboard and API
 
-## Wev Dashboard
+## Web Dashboard
 The Dashboard is published on streamlit. It gives information concerning the delay analysis.
 To access it you must download the present repository and launch it locally
 
