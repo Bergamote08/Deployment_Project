@@ -8,11 +8,11 @@ This document provides instruction to deploy the dashboard and API
 
 ## Web Dashboard
 The Dashboard is published on streamlit. It gives information concerning the delay analysis.
-To access it you must download the present repository and launch it locally
+The code for our Dashboard can be found in the "Dashboard" section of this repo and hosted locally using the following command : streamlit run app.py
 
 ## API
 The API was build to provide an endpoint for pricing forecast.
-To access it you must download the present repository and launch it locally
+The code for our API can be found in the "API" section of this repo and hosted locally using the following command : python api.py
 
 ## Author
 I would like to credit Caroline Mathius and Yann Vii, as I used his GitHub repository as a reference.
